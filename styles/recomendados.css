@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.contentR{
+    display: flex;
+    margin-top: 5%;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.nombre{
+    padding-left: 5%;
+    cursor: pointer;
+}
+
+.canalR{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.infos{
+    display: flex;
+    margin-top: 5%;
+    color: gray;
+    padding-left: 2%;
+    cursor: pointer;
+}
+
+.fechaR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5%;
+    height: 10%;
+    cursor: pointer;
+}
+
+#recomenZone{
+    margin-top: 7%;   
+}
+
+.posterR{
+    width: 50%;
+    cursor: pointer;
+}
